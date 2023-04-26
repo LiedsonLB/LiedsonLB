@@ -1,4 +1,4 @@
-## Meu nome é Liédson e sou Front-end Developer! 💻🥰
+## Meu nome é Liédson e sou Front-end Developer! 💻
 
 ### Áreas de conhecimento e atuação:
   
