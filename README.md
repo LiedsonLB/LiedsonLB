@@ -1,4 +1,4 @@
-## Meu nome é Liédson e sou Front-end Developer! 💻
+## Meu nome é Liédson e sou Full-stack Developer React.js e C#! 💻
 
 ### Áreas de conhecimento e atuação:
   
