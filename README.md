@@ -1,4 +1,4 @@
-## Meu nome é Liédson e sou Full-stack Developer React.js e C#! 💻
+## Meu nome é Liédson e sou Full-stack Developer React.js, Vue.js e C++! 💻
 
 ### Áreas de conhecimento e atuação:
   
