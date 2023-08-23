@@ -2,7 +2,7 @@
 
 ### Áreas de conhecimento e atuação:
 
-<div style="display: flex; gap: 50px; justify-content: center; text-align: center; margin-bottom: 20px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 50px; text-align: center;">
   <div>
     <h2>Básicos</h2>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" height="30" width="40">
@@ -18,11 +18,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" height="30" width="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" height="30" width="40">
   </div>
-</div>
-
-<hr>
-
-<div style="display: flex; gap: 50px; justify-content: center; text-align: center;">
+  
   <div>
     <h2>Back-End</h2>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="30" width="40">
@@ -37,20 +33,12 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="30" width="40">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" alt="redis" height="30" width="40">
   </div>
-</div>
-
-<hr>
-
-<div style="display: flex; gap: 50px; justify-content: center; text-align: center;">
+  
   <div>
     <h2>Outras Tecnologias</h2>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" height="30" width="40">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="40">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" height="30" width="40">
-  </div>
-  
-  <div>
-    <h2>&nbsp;</h2>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" height="30" width="40">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" height="30" width="40">
   </div>
