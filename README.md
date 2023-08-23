@@ -2,7 +2,7 @@
 
 ### Áreas de conhecimento e atuação:
 
-<div style="width: 100%; display: flex; justify-content: space-around;">
+<div style="display: flex; justify-content: space-around;">
   <div>
 <h3>Básicos</h3>
 <div style="display: inline_block"><br>
