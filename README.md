@@ -1,10 +1,10 @@
-## Meu nome é Liédson e sou Full-stack Developer React.js, Vue.js e C++! 💻
+## Hi, My name is Liédson, and I am a Full-stack Developer with React.js, Vue.js, and C++ 💻
 
-### Áreas de conhecimento e atuação:
+### Fields of Expertise and Specialization:
 
 <div style="display: flex; gap: 20px;">
   <div style="flex: 1;">
-    <h2>Básicos</h2>
+    <h2>Basics</h2>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" height="30" width="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" height="30" width="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Javascript" height="30" width="40">
@@ -29,7 +29,7 @@
   </div>
   
   <div style="flex: 2;">
-    <h2>Bancos de dados</h2>
+    <h2>Database:</h2>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" height="30" width="40">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" height="30" width="40">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" height="30" width="40">
@@ -39,7 +39,7 @@
 
 <div style="display: flex; gap: 20px;">
   <div style="flex: 1;">
-    <h2>Outras Tecnologias</h2>
+    <h2>Other Technologies:</h2>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" height="30" width="40">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="40">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" height="30" width="40">
@@ -54,7 +54,7 @@
 
 <hr>
   
- ### Minhas redes sociais:
+ ### My social media profiles:
   
   <div> 
   <a href="https://www.instagram.com/liedson.vue" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
