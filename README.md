@@ -3,7 +3,7 @@
 ### Fields of Expertise and Specialization:
 
 <table style="border-collapse: collapse;">
-  <tr>
+  <tr style="margin: auto">
     <td>
       <div style="text-align: left;">
         <h2>Basics</h2>
