@@ -39,11 +39,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" height="30" width="40">
       </div>
     </td>
-  </tr>
-</table>
-
-<table style="border-collapse: collapse;">
-  <tr>
     <td>
       <div style="text-align: left;">
         <h2>Other Technologies</h2>
