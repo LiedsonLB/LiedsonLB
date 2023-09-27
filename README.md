@@ -13,8 +13,8 @@
       </div>
     </td>
     <td>
-      <div style="text-align: center;">
-        <h2>Frameworks</h2>
+      <div>
+        <h2 style="text-align: center;">Frameworks</h2>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="30" width="40">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vueJs" height="30" width="40">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" height="30" width="40">
@@ -22,8 +22,8 @@
       </div>
     </td>
     <td>
-      <div style="text-align: center;">
-        <h2>Back-End</h2>
+      <div>
+        <h2 style="text-align: center;">Back-End</h2>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="30" width="40">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="30" width="40">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="30" width="40">
@@ -31,8 +31,8 @@
       </div>
     </td>
     <td>
-      <div style="text-align: center;">
-        <h2>Database</h2>
+      <div>
+        <h2 style="text-align: center;">Database</h2>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" height="30" width="40">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" height="30" width="40">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" height="30" width="40">
@@ -40,8 +40,8 @@
       </div>
     </td>
     <td>
-      <div style="text-align: center;">
-        <h2>Other Technologies</h2>
+      <div>
+        <h2 style="text-align: center;">Other Technologies</h2>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" height="30" width="40">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="40">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" height="30" width="40">
