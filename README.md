@@ -2,22 +2,22 @@
 
 ### Fields of Expertise and Specialization:
 
-<div style="display: flex; gap: 20px;">
-  <div style="flex: 1;">
+<table>
+  <div>
     <h2>Basics</h2>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" height="30" width="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" height="30" width="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Javascript" height="30" width="40">
   </div>
   
-  <div style="flex: 2;">
+  <div>
     <h2>Frameworks</h2>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="30" width="40">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vueJs" height="30" width="40">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" height="30" width="40">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" height="30" width="40">
   </div>
-</div>
+</table>
 
 <div style="display: flex; gap: 20px;">
   <div style="flex: 1;">
