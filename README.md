@@ -1,4 +1,4 @@
-## Hi, My name is Liédson, and I am a Full-stack Developer with React.js, Vue.js and C++ 💻
+## Hi, My name is Liédson, and I am a Full-stack Developer with Vue.js and C++ 💻
 
 ### Fields of Expertise and Specialization:
 
