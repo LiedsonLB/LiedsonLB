@@ -2,7 +2,7 @@
 
 ### Fields of Expertise and Specialization:
 
-<table style="border-collapse: collapse;">
+<table style="border-collapse: collapse !important;">
   <tr>
     <td>
       <div style="text-align: left;">
@@ -21,11 +21,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" height="30" width="40">
       </div>
     </td>
-  </tr>
-</table>
-
-<table style="border-collapse: collapse;">
-  <tr>
     <td>
       <div style="text-align: left;">
         <h2>Back-End</h2>
