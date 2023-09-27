@@ -5,7 +5,7 @@
 <table style="border-collapse: collapse !important;">
   <tr>
     <td>
-      <div style="text-align: left;">
+      <div style="text-align: center;">
         <h2>Basics</h2>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" height="30" width="40">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" height="30" width="40">
@@ -13,7 +13,7 @@
       </div>
     </td>
     <td>
-      <div style="text-align: left;">
+      <div style="text-align: center;">
         <h2>Frameworks</h2>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="30" width="40">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vueJs" height="30" width="40">
@@ -22,7 +22,7 @@
       </div>
     </td>
     <td>
-      <div style="text-align: left;">
+      <div style="text-align: center;">
         <h2>Back-End</h2>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="30" width="40">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="30" width="40">
@@ -31,7 +31,7 @@
       </div>
     </td>
     <td>
-      <div style="text-align: left;">
+      <div style="text-align: center;">
         <h2>Database</h2>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" height="30" width="40">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" height="30" width="40">
@@ -40,7 +40,7 @@
       </div>
     </td>
     <td>
-      <div style="text-align: left;">
+      <div style="text-align: center;">
         <h2>Other Technologies</h2>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" height="30" width="40">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="40">
