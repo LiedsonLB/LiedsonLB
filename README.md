@@ -21,11 +21,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" height="30" width="40">
       </div>
     </td>
-  </tr>
-</table>
-
-<table style="border-collapse: collapse;">
-  <tr>
     <td>
       <div style="text-align: left;">
         <h2>Back-End</h2>
@@ -35,6 +30,11 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" height="30" width="40">
       </div>
     </td>
+  </tr>
+</table>
+
+<table style="border-collapse: collapse;">
+  <tr>
     <td>
       <div style="text-align: left;">
         <h2>Database</h2>
@@ -44,11 +44,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" height="30" width="40">
       </div>
     </td>
-  </tr>
-</table>
-
-<table style="border-collapse: collapse;">
-  <tr>
     <td>
       <div style="text-align: left;">
         <h2>Other Technologies</h2>
