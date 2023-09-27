@@ -46,13 +46,14 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" height="30" width="40">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" height="30" width="40">
   </div>
-  
-  <div style="flex: 1;">
-    <!-- Adicione aqui as outras áreas de conhecimento -->
-  </div>
-</div>
 
 <hr>
+
+<table>
+  <a href="https://github.com/leehxd">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LiedsonLB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiedsonLB&layout=compact&langs_count=6&theme=tokyonight"/>
+</table>
   
  ### My social media profiles:
   
