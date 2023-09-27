@@ -19,8 +19,8 @@
   </div>
 </table>
 
-<div style="display: flex; gap: 20px;">
-  <div style="flex: 1;">
+<table>
+  <div>
     <h2>Back-End</h2>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="30" width="40">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="30" width="40">
@@ -28,17 +28,17 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" height="30" width="40">
   </div>
   
-  <div style="flex: 2;">
+  <div>
     <h2>Database:</h2>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" height="30" width="40">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" height="30" width="40">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" height="30" width="40">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" height="30" width="40">
   </div>
-</div>
+</table>
 
-<div style="display: flex; gap: 20px;">
-  <div style="flex: 1;">
+<table>
+  <div>
     <h2>Other Technologies:</h2>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" height="30" width="40">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="40">
@@ -46,10 +46,12 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" height="30" width="40">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" height="30" width="40">
   </div>
+</table>
 
 <hr>
 
 <table>
+  <a href="https://github.com/LiedsonLB">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LiedsonLB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiedsonLB&layout=compact&langs_count=6&theme=tokyonight"/>
 </table>
