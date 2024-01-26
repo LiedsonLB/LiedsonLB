@@ -1,4 +1,4 @@
-## Hi, My name is Liédson, and I am a Full-stack Developer with Vue.js and C++ 💻
+## Hi, My name is Liédson, and I am a Full-stack Developer with React.js and Java 💻
 
 ### Fields of Expertise and Specialization:
 
@@ -18,6 +18,7 @@
       </div>
       <div style="text-align: left;">
         <h2>Back-End</h2>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="30" width="40">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="30" width="40">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="30" width="40">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="30" width="40">
