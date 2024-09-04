@@ -71,7 +71,7 @@
   <a href="https://www.linkedin.com/in/liedsonlb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://api.whatsapp.com/send?phone=558698635571" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%25B7D24?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
   </a>
-    <a href="https://liedsonbarros.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio">
+  <a href="https://liedsonbarros.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%238A2BE2?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio">
   </a>
 </div>
