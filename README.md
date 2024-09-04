@@ -57,8 +57,10 @@
 
 <table>
   <a href="https://github.com/LiedsonLB">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LiedsonLB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiedsonLB&layout=compact&langs_count=10&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LiedsonLB&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiedsonLB&layout=compact&langs_count=10&theme=radical"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LiedsonLB&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  </a>
 </table>
   
  ### My social media profiles:
