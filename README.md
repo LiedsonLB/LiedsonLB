@@ -1,4 +1,4 @@
-## Hi, My name is Liédson, I am a Full-stack and Frontend Developer 💻
+## Hi, My name is Liédson, I am a Full-stack and Java Developer 💻
 
 ### Fields of Expertise and Specialization:
 
