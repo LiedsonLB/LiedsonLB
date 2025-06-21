@@ -1,7 +1,7 @@
 ## Hi, My name is Liédson, I am a Full-stack and Java Developer 💻
 
 ### Certifications
-![AWS CLF-C02](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-fff?style=flat&logo=amazonwebservices&logoColor=FFFFFF&labelColor=1e1c28)(https://www.credly.com/badges/901d7a04-6ad5-476a-8144-ee7feea8cdd1/public_url)
+[![AWS CLF-C02](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-fff?style=flat&logo=amazonwebservices&logoColor=FFFFFF&labelColor=1e1c28)](https://www.credly.com/badges/901d7a04-6ad5-476a-8144-ee7feea8cdd1/public_url)
 
 ### Fields of Expertise and Specialization:
 
